@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Wwe_R.data.unityweb",
+"asmCodeUrl": "Wwe_R.asm.code.unityweb",
+"asmMemoryUrl": "Wwe_R.asm.memory.unityweb",
+"asmFrameworkUrl": "Wwe_R.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
